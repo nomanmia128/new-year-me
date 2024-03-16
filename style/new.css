@@ -38,3 +38,61 @@
     
 }
 
+
+
+
+/* main section styles */
+/* .banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner .profile-pic{
+    width: 500px;
+} */
+
+
+.main-counten{
+    /* max-width: 500px; */
+    background-image: url('../imgaes/person.png');
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    background-size: 40% 100%;
+    margin: 200px 0px 30px 50px;
+}
+
+
+.counten{
+    /* max-width: 500px; */
+    /* display: flex; */
+    align-items: center;
+    padding: 190px 400px 70px 500px;
+    /* margin: 200px 250px 50px 600px; */
+    justify-content: space-between;
+}
+
+.section-title{
+    
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+.section-aitem-title{
+    font-size: 13px;
+
+    
+}
+
+
+.green-checkmark {
+    color: green;
+  }
+
+
+.bullint-point{
+    
+    font-size: 13px;
+}
+
