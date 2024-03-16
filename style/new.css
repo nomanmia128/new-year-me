@@ -1,5 +1,8 @@
 /* header styles counten */
-
+body{
+    font-family: 'Lato' , sans-serif;
+    font-family: 'Open Sans', sans-serif; 
+}
 
 
 
@@ -41,16 +44,9 @@
 
 
 
-/* main section styles */
-/* .banner{
-    padding: 30px 30px 0px 150px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.banner .profile-pic{
-    width: 500px;
-} */
+/* main section styles 1 */
+
+
 
 
 .main-counten{
@@ -96,3 +92,75 @@
     font-size: 13px;
 }
 
+/* sectoin styles 2 plans */
+
+.section-titlee{
+    text-align: center;
+    font-size: 30px;
+}
+
+.misoin-skill{
+    text-align: center;
+    padding: 5px 30px;
+    /* padding: 20px 50px; */
+    
+}
+
+.misoin{
+   
+    display: flex;
+    margin: 20px 200px;
+    margin-bottom: 100px;
+}
+
+.image{
+   width: 45px;
+}
+
+.skill{
+    font-size: 18px;
+    font-weight: 700;
+    margin: 5px;
+}
+
+.skill-item{
+    color: #949090;
+    font-weight: 700;
+    margin: 5px;
+}
+
+
+/* sectoin style 3*/
+
+.awlays{
+    background-image: url('../imgaes/gradient2.png'), url('../imgaes/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-size: 100% 100%;
+    margin: 20px 200px 40px 200px;
+}
+
+.section-banner{
+          padding: 15px 500px 15px 35px;
+       
+}
+
+.item{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+
+.call{
+    font-size: 10px;
+    font-weight: 700;
+    color: #FD6E0A;
+    background-color: white;
+    padding: 10px 18px;
+    border-radius: 3px;
+    border: 0;
+    margin-bottom: 20px;
+}
