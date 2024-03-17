@@ -139,6 +139,7 @@ body{
 
     background-size: 100% 100%;
     margin: 20px 200px 40px 200px;
+
 }
 
 .section-banner{
@@ -163,4 +164,59 @@ body{
     border-radius: 3px;
     border: 0;
     margin-bottom: 20px;
+}
+
+
+/* footer related styles */
+
+
+footer{
+    background-color: black;
+    /* gap: 100px; */
+    color: white;
+    display: flex;
+    /* padding: 80px 250px 80px 150px; */
+}
+
+.footer-column{
+    margin: 80px 300px 80px 150px;
+    
+}
+
+
+.footer-column-item{
+    /* margin: 80px 100px; */
+    padding: 100px 150px;
+}
+
+
+
+.sectione-title{
+    font-size: 25px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.footer-item-title{
+    font-size: 10px;
+    padding-top: 5px;
+    margin-bottom: 15px;
+}
+
+.social-links a{
+    margin-right: 10px;
+    
+}
+
+.Subscribe{
+    margin-bottom: 15px;
+}
+
+.email{
+    color: white;
+    border-radius: 4px;
+    border: 1px solid white;
+    background: black;
+    padding: 8px ;
+    margin-bottom: 8px;
 }
