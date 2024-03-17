@@ -55,7 +55,7 @@ body{
     background-repeat: no-repeat;
     /* background-position: top left; */
     background-size: 40% 100%;
-    margin: 200px 0px 30px 50px;
+    margin: 150px 20px 30px 50px;
 }
 
 
@@ -63,7 +63,7 @@ body{
     /* max-width: 500px; */
     /* display: flex; */
     align-items: center;
-    padding: 190px 400px 70px 500px;
+    padding: 190px 350px 70px 500px;
     /* margin: 200px 250px 50px 600px; */
     justify-content: space-between;
 }
